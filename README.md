@@ -5,11 +5,6 @@
 
 <h3 align="left">About</h3>
 
-
-- 🎓 I'm a recent Graduate student 
-- ⚡ I'm currently looking for work
-- 🏀 I love basketball
-
 <h3 align="left">Languages and Tools</h3>
 
 <p align="left"> 
