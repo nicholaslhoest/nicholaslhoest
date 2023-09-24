@@ -1,7 +1,5 @@
 <h1> Good Morning, my name is Nicholas B. Lhoest 🦆 </h1>
 
-<img align = "right" width="400" src="https://cdn.dribbble.com/users/2000228/screenshots/17995146/media/aba3279571cd542553415613134f56b1.png">
-
 <h3 align="left">Languages and Tools</h3>
 
 <p align="left"> 
